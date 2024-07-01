@@ -402,3 +402,80 @@ h1{
   grid-column: 1 / -1;
 }
  
+/* Footer Responsiveness Fix */
+@media (max-width: 576px) {
+  .footer-nav ul,
+  .footer-contact ul {
+    padding-left: 0;
+    text-align: center;
+  }
+  
+  .footer-nav ul li,
+  .footer-contact ul li {
+    display: inline-block;
+    margin-right: 15px;
+  }
+
+  .footer-nav {
+    text-align: center;
+  }
+}
+
+/* Ensure the footer content is centered properly */
+.footer-area {
+  padding: 40px 0;
+}
+
+.footer-logo img {
+  margin: 0 auto;
+  display: block;
+}
+
+.footer-nav h4,
+.footer-contact h4 {
+  text-align: center;
+}
+
+.footer-nav ul,
+.footer-contact ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.footer-nav ul li,
+.footer-contact ul li {
+  margin-bottom: 10px;
+}
+
+.footer-nav ul li a,
+.footer-contact ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-nav ul li a:hover,
+.footer-contact ul li a:hover {
+  text-decoration: underline;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+}
+
+.social-icons li {
+  margin: 0 10px;
+}
+
+.footer-bottom {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .footer-nav ul,
+  .footer-contact ul {
+    text-align: center;
+  }
+}
