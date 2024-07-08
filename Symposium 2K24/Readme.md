@@ -1,7 +1,7 @@
 # Symposium 2K24 Web Page Documentation
 
 ## Project Overview
-The Symposium 2K24 Web Page is a web application designed to provide detailed information about the Symposium 2K24 event. This project is developed as an open-source initiative, hosted on GitHub, and available for free use under the MIT License. The live demo can be accessed [here](https://github.com/a1n13a1n13d4/Symposium2K24).
+The Symposium 2K24 Web Page is a web application designed to provide detailed information about the Symposium 2K24 event. This project is developed as an open-source initiative, hosted on GitHub, and available for free use under the MIT License. The live demo can be accessed [here](https://symposium2k24.vercel.app/).
 
 ## Repository
 **GitHub Repository**: [Symposium2K24](https://github.com/a1n13a1n13d4/Symposium2K24)
