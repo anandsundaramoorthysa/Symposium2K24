@@ -1,77 +1,74 @@
-# Symposium 2K24 Web Page Documentation
+# Symposium 2K24 Web Page
 
-## Project Overview
-The Symposium 2K24 Web Page is a web application designed to provide detailed information about the Symposium 2K24 event. This project is developed as an open-source initiative, hosted on GitHub, and available for free use under the MIT License. The live demo can be accessed [here](https://symposium2k24.vercel.app/).
+## Table of Contents
+- [About Project](#about-project)
+- [Installation](#installation)
+- [Use/Run the Project](#use-run-the-project)
+- [Features](#features)
+- [Contribution](#contribution)
+- [License](#license)
+- [Contact Me](#contact-me)
 
-## Repository
-**GitHub Repository**: [Symposium2K24](https://github.com/a1n13a1n13d4/Symposium2K24)
+## About Project
+The **Symposium 2K24 Web Page** is a static website designed to provide comprehensive information about the Symposium 2K24 event. It is built using HTML, CSS, JavaScript, and Bootstrap, ensuring a responsive and user-friendly design.  
+
+**Live Demo**: [Symposium 2K24 Web Page](https://sa-symposium2k24.vercel.app/)  
+**Repository**: [GitHub Repository](https://github.com/anandsundaramoorthysa/Symposium2K24)  
+
+This project is open-source and licensed under the MIT License, making it free for use and contribution.
+
+## Installation
+To run the project locally, follow these steps:  
+
+1. **Clone the Repository**:  
+   ```bash
+   git clone https://github.com/anandsundaramoorthysa/Symposium2K24.git
+   cd Symposium2K24
+   ```  
+
+2. **Open the Project**:  
+   Open the `index.html` file in any web browser to view the web page.
+
+## Use/Run the Project
+- Open the project locally by opening the `index.html` file in your browser.  
+- Navigate through various sections to explore details about the event, speakers, schedule, and sponsors.
 
 ## Features
-- Responsive design for various screen sizes.
-- Informative sections about the event, speakers, schedule, and sponsors.
-- Easy navigation with a clean and modern user interface.
-- Interactive elements to enhance user engagement.
+- **Responsive Design**: Ensures optimal viewing across different devices.  
+- **Informative Sections**: Includes event schedules, speaker profiles, and sponsor details.  
+- **Modern User Interface**: Clean and easy-to-navigate design.  
+- **Interactive Elements**: JavaScript-powered dynamic components enhance user engagement.
 
-## Getting Started
+## Contribution
+We welcome contributions to improve this project! Follow these steps to contribute:  
 
-### Prerequisites
-To run this project locally, you need to have the following installed:
-- Visual Studio Code (VS Code) for modifying the code.
-- A web browser for viewing the application.
+1. **Fork the Repository**:  
+   Click on the "Fork" button in the GitHub repository.  
 
-### Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/a1n13a1n13d4/Symposium2K24.git
-   cd Symposium2K24
-   ```
+2. **Create a Branch**:  
+   ```bash
+   git checkout -b feature-name
+   ```  
 
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
+3. **Make Changes and Commit**:  
+   ```bash
+   git commit -m "Describe your changes"
+   ```  
 
-3. Run the application:
-   ```sh
-   npm start
-   ```
+4. **Push to Your Branch**:  
+   ```bash
+   git push origin feature-name
+   ```  
 
-## Documentation and Usage
-
-### Components
-- **Header**: Contains the navigation bar.
-- **Footer**: Contains the footer information.
-- Additional components for various sections of the web page.
-
-### Styling
-- Custom styles are located in the `assets/css/Styles` directory.
-- CSS frameworks or libraries can be added as per the requirement.
-
-### Assets
-- Images and other static assets are stored in the `assets/images` directory.
-
-## Contributing
-Contributions are welcome! Please follow the steps below to contribute to this project:
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them:
-   ```sh
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```sh
-   git push origin feature-branch
-   ```
-5. Open a pull request.
+5. **Submit a Pull Request**:  
+   Open a pull request describing your changes for review.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/a1n13a1n13d4/Symposium2K24/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License**. For detailed terms, see the [LICENSE](https://github.com/anandsundaramoorthysa/Symposium2K24/blob/main/LICENSE) file.
 
-## Contact
-For any questions or feedback, please feel free to contact the project maintainer:
-- **Name**: S. Anand
-- **Email**: [sanand03072005@gmail.com](mailto:sanand03072005@gmail.com)
-- **Subject**: About Symposium 2K24 project
+## Contact Me
+For any questions, suggestions, or feedback, feel free to get in touch:  
+
+- **GitHub**: [Anand Sundaramoorthy](https://github.com/anandsundaramoorthysa)  
+- **LinkedIn**: [Anand Sundaramoorthy](https://www.linkedin.com/in/anandsundaramoorthysa/)  
+- **Email**: [sanand03072005@gmail.com](mailto:sanand03072005@gmail.com?subject=Inquiry%20About%20Symposium%202K24%20Project&body=Hi%20Anand,%0A%0AI%20am%20interested%20in%20learning%20more%20about%20the%20Symposium%202K24%20Web%20Page.%20I%20have%20some%20questions%20and%20would%20like%20to%20discuss%20potential%20collaborations.%0A%0AThank%20you!%0A%0ABest%20regards,%0A[Your%20Name])  
